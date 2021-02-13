@@ -1,0 +1,30 @@
+
+
+
+
+
+
+.container{
+  width: 95%;
+  margin: 0 auto;
+}
+/* card */
+#card-js{
+  display:block;
+  width:100%;
+  height:auto;
+  margin:auto;
+  border-radius:20px;
+  text-align:center;
+  
+ 
+  color:white;
+  background: #00d4ff; 
+  background: linear-gradient(to bottom, #00d4ff, #ff80fa, #79ffbc) !important;
+}
+#output-js{
+  font-size:20px;
+  color: white;
+
+}
+
